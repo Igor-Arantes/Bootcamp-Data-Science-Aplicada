@@ -1,0 +1,49 @@
+ Nascidos vivos - Brasil
+Nascim p/resid.mãe por Região/Unidade da Federação e Ano do nascimento
+Período:2014-2018
+"Região/Unidade da Federação";"2014";"2015";"2016";"2017";"2018";"Total"
+"Região Norte";321682;320924;307526;312682;319228;1582042
+".. Rondônia";27560;27918;26602;27503;28091;137674
+".. Acre";17139;16980;15773;16358;16543;82793
+".. Amazonas";81145;80097;76703;78066;78087;394098
+".. Roraima";11120;11412;11376;11737;13344;58989
+".. Pará";143503;143657;137681;138684;141819;705344
+".. Amapá";16271;15750;15521;15399;15864;78805
+".. Tocantins";24944;25110;23870;24935;25480;124339
+"Região Nordeste";833090;846374;796119;817311;836850;4129744
+".. Maranhão";117071;117564;110493;112985;117156;575269
+".. Piauí";47941;49253;46986;48551;49490;242221
+".. Ceará";128681;132516;126246;127797;131491;646731
+".. Rio Grande do Norte";48111;49099;45366;46222;48107;236905
+".. Paraíba";57535;59089;56083;57493;60205;290405
+".. Pernambuco";143489;145024;130733;135932;138317;693495
+".. Alagoas";51859;52257;48164;50368;52496;255144
+".. Sergipe";34369;34917;32218;33867;34256;169627
+".. Bahia";204034;206655;199830;204096;205332;1019947
+"Região Sudeste";1182949;1196232;1127499;1151832;1147006;5805518
+".. Minas Gerais";267130;268305;253520;260959;263640;1313554
+".. Espírito Santo";56548;56941;53413;55846;56721;279469
+".. Rio de Janeiro";233584;236960;219129;223224;220499;1133396
+".. São Paulo";625687;634026;601437;611803;606146;3079099
+"Região Sul";396462;406529;391790;397604;395857;1988242
+".. Paraná";159915;160947;155066;157701;156201;789830
+".. Santa Catarina";93232;97223;95313;98335;99609;483712
+".. Rio Grande do Sul";143315;148359;141411;141568;140047;714700
+"Região Centro-Oeste";245076;247609;234866;244106;245991;1217648
+".. Mato Grosso do Sul";44058;44142;42432;44747;44275;219654
+".. Mato Grosso";56499;56673;53531;57271;58649;282623
+".. Goiás";99798;100672;95563;97520;98872;492425
+".. Distrito Federal";44721;46122;43340;44568;44195;222946
+"Total";2979259;3017668;2857800;2923535;2944932;14723194
+ Fonte: MS/SVS/DASIS - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
